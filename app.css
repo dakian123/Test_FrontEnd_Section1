@@ -1,0 +1,71 @@
+.card-img-top {
+    width: 300px;
+    height: 200px;
+}
+
+body {
+    background-color: #fffdf4;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card {
+    background-color: #fffdf4;
+}
+
+h1 {
+    color: #374639;
+    font-size: 45px;
+    font-style: normal;
+    line-height: 53px;
+    letter-spacing: -2.25px;
+}
+
+h5 {
+    color: #414F42;
+    font-size: 20px;
+    font-style: normal;
+    line-height: 25px;
+    letter-spacing: -0.4px;
+}
+
+p {
+    color: #3F514B;
+    font-size: 19px;
+    font-style: normal;
+    line-height: 27px;
+}
+
+.week {
+    color: #72776C;
+    font-size: 15px;
+    font-style: normal;
+    line-height: 18px;
+    letter-spacing: 0.15px;
+}
+
+.descriptWeek {
+    color: #4E5C58;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 24px;
+}
+
+.price {
+    font-size: 18px;
+    font-style: normal;
+    line-height: 23px;
+}
+
+.oldPrice {
+    font-size: 13px;
+    font-style: normal;
+    line-height: 18px;
+    letter-spacing: 0.13px;
+    text-decoration-line: strikethrough;
+}
+
+.descriptTittle {
+    font-size: 17px;
+    font-style: normal;
+    line-height: 24px;
+}
