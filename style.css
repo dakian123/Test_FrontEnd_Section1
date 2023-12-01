@@ -1,0 +1,266 @@
+body {
+    background-color: #FFFDF4;
+    font-family: 'Poppins', sans-serif;
+}
+
+.section {
+    display: inline-flex;
+    height: 917px;
+    padding: 70px 194px 30px 194px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.frame {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 40px;
+}
+
+.text-wrapper {
+    color: #374639;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 53px;
+    letter-spacing: -2.25px;
+}
+
+.paraHeader {
+    color: #3F514B;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+    width: 519px;
+    margin: 0 0;
+}
+
+.content {
+    display: flex;
+    align-items: flex-start;
+    gap: 23px;
+}
+
+.productCard {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 18px;
+}
+
+img {
+    width: 365px;
+    height: 266px;
+}
+
+.frame-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.frame-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+}
+
+.frame-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+}
+
+.frame-5 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+}
+
+.text-wrapper-2 {
+    width: 308px;
+    color: #3F514B;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0 0;
+}
+
+.frame-6 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2px;
+}
+
+.frame-7 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.text-wrapper-3 {
+    color: #414F42;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: -0.4px;
+}
+
+.frame-8 {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.text-wrapper-4 {
+    color: #72776C;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.13px;
+    text-decoration: line-through;
+    text-transform: uppercase;
+    width: 34px;
+    height: 17px;
+}
+
+.text-wrapper-5 {
+    color: #3F514B;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    text-transform: uppercase;
+}
+
+.text-wrapper-6 {
+    color: #72776C;
+    position: absolute;
+    top: 13px;
+    left: 0;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+
+.text-wrapper-7 {
+    color: #72776C;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.15px;
+    text-transform: uppercase;
+    position: absolute;
+    top: 60px;
+    left: 0;
+}
+
+.text-wrapper-8 {
+    color: #72776C;
+    top: 106px;
+    position: absolute;
+    left: 0;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: 0.15px;
+    line-height: 18px;
+}
+
+.text-wrapper-9 {
+    color: #4E5C58;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    position: absolute;
+    top: 13px;
+    left: 74px;
+}
+
+.text-wrapper-10 {
+    color: #4E5C58;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    position: absolute;
+    top: 58px;
+    left: 74px;
+}
+
+.text-wrapper-11 {
+    color: #4E5C58;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    position: absolute;
+    top: 103px;
+    left: 74px;
+}
+
+
+.group {
+    width: 360px;
+    height: 136px;
+    position: relative;
+}
+
+.component-1 {
+    top: 0;
+    position: absolute;
+    width: 360px;
+    height: 1px;
+    left: 0;
+    background-color: #ECEDEC;
+}
+
+.component-2 {
+    top: 45px;
+    position: absolute;
+    width: 360px;
+    height: 1px;
+    left: 0;
+    background-color: #ECEDEC;
+}
+
+.component-3 {
+    top: 90px;
+    position: absolute;
+    width: 360px;
+    height: 1px;
+    left: 0;
+    background-color: #ECEDEC;
+}
+
+.component-4 {
+    top: 135px;
+    position: absolute;
+    width: 360px;
+    height: 1px;
+    left: 0;
+    background-color: #ECEDEC;
+}
